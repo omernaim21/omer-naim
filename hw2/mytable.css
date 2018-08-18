@@ -1,0 +1,129 @@
+#table1{
+    
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    background-color: lightblue;
+    margin-left: 0%;
+    margin-top: 0%;
+}
+
+
+#tr1{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    background-color: lightblue;
+   
+}
+#tr2{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    background-color: lightblue;
+    
+}
+#tr3{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    background-color: lightblue;
+    
+}
+#td11{
+    width: 5px;
+    height: 5px;
+}
+#td12{
+    width: 5px;
+    height: 5px;
+}
+#td13{
+    width: 5px;
+    height: 5px;
+}
+#td14{
+    width: 5px;
+    height: 5px;
+}
+
+#td21{
+    width: 5px;
+    height: 5px;
+}
+#td22{
+    width: 5px;
+    height: 5px;
+}
+#td23{
+    width: 5px;
+    height: 5px;
+}
+#td24{
+    width: 5px;
+    height: 5px;
+}
+#td31{
+    width: 5px;
+    height: 5px;
+}
+#td32{
+    width: 5px;
+    height: 5px;
+}
+#td33{
+    width: 5px;
+    height: 5px;
+}
+#td34{
+    width: 5px;
+    height: 5px;
+}
+#table2{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    background-color: gray;
+    margin-left: 25%;
+    margin-top: 25%;
+    margin-right: 25%;
+    margin-bottom: 25%;
+
+}
+#table3{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    margin-right: 100%;
+    margin-bottom: 0%;
+margin-left: 80%;
+width: 10cm;
+height: 1.5cm;
+}
+#lionimage{
+    background-image: url(lion.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#mouseimage{
+    background-image: url(mouse.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#dogimage{
+    background-image: url(dog.jgp.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+#catimage{
+background-image: url(cat.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+
+}
+#rabbitimage{
+    background-image: url(rabbit.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
